@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\BSUIR\OSaSP\Lab2\main.cpp(108,12): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab2.vcxproj -> E:\BSUIR\OSaSP\Lab2\Debug\Lab2.exe
